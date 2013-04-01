@@ -1,0 +1,36 @@
+{
+  "name": "compare-slope",
+  "version": "0.0.0",
+  "description": "Compares the slopes of a pair of 2D vectors",
+  "main": "slope.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/compare-slope.git"
+  },
+  "keywords": [
+    "slope",
+    "vector",
+    "2d",
+    "point",
+    "atan",
+    "tangent",
+    "atan2",
+    "arc",
+    "angle",
+    "polar"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "220f77ecbfd7804deb6e3d5c42e9e57efbf47c0a"
+}
