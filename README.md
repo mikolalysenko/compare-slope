@@ -30,4 +30,4 @@ Checks whether `a` comes before `b` in a counter-clockwise ordering.
 
 Credits
 =======
-
+(c) 2013 Mikola Lysenko. MIT License
